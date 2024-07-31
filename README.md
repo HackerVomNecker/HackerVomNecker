@@ -10,7 +10,7 @@ mit dem Hobby zu Programmieren
 
 ## Interessen
 - Virtualisierung (Proxmox)
-- alles rund um Linux
+- alles rund um Linux (Arch btw)
 - Netzwerkadministration
 - Homeservering
 
